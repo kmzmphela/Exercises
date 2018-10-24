@@ -60,5 +60,16 @@ public class Ex5 {
 		
 		System.out.println(bool);
 		
+		
+		LinkedList<String> list = new LinkedList<String>();
+		
+		list.addFirst("1");
+		list.add("2");
+		list.add("3");
+
+		
+		System.out.println(list);
+	
+		
 	}
 }
